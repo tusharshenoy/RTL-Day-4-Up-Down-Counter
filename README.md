@@ -26,6 +26,7 @@ Up counter and down counter is combined together to obtain an UP/DOWN counter. A
 
 
 References
-1.[Counters in Digital Electronics](https://www.geeksforgeeks.org/counters-in-digital-logic/)https://www.geeksforgeeks.org/counters-in-digital-logic/)
+1.[Counters in Digital Electronics](https://www.geeksforgeeks.org/counters-in-digital-logic/)
+
 2.[Digital Counters](https://www.tutorialspoint.com/computer_logical_organization/digital_counters.htm)
 
